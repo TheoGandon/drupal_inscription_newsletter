@@ -1,0 +1,7 @@
+inscription_newsletter.form:
+  path: '/inscription-newsletter'
+  defaults:
+    _form: '\Drupal\inscription_newsletter\Form\NewsletterForm'
+    _title: 'Inscription à la newsletter'
+  requirements:
+    _permission: 'access content'
