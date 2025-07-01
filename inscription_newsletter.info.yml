@@ -1,0 +1,5 @@
+name: 'Inscription Newsletter'
+type: module
+description: 'Formulaire custom pour inscription à une newsletter.'
+core: 8.x
+package: Custom
